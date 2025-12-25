@@ -2,10 +2,6 @@
 
 ### Desenvolvedor Backend Java | Estudante de Gestão da TI
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nezo25&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nezo25&layout=compact&theme=radical](https://br.pinterest.com/pin/4362930884339385"/>
-</div>
 
 ### 🛠️ Tecnologias & Frameworks
 <div align="center">
