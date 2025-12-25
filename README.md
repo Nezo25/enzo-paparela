@@ -1,7 +1,29 @@
 Backend Developer
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Nezo25&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/toNezo25I&repo=orion&theme=radical)](https://github.com/Nezo25/orion)
 
-Sou um desenvolvedor focado em construir sistemas de alta disponibilidade e performance. Meu foco principal é o ecossistema Java/Spring, aplicando princípios de Clean Code, SOLID e arquiteturas orientadas a dados para resolver problemas complexos de software.
+# Hi! 
+
+### Desenvolvedor Backend Java
+### Estudante de Gestão da Tecnologia da Informação
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EnSo340&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnSo340&layout=compact&theme=tokyonight"/>
+</div>
+
+### Tecnologias/Frameworks/OS:
+<div align="center" style="margin-top: 20px;">
+  <img align="center" alt="Enzo-html" height="40" width="90" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img align="center" alt="Enzo-mysql" height="40" width="105" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align="center" alt="Enzo-spring" height="40" width="105" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img align="center" alt="Enzo-windows" height="40" width="105" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+</div>
+
+<div align="center" style="margin-top: 20px;">
+  <img src="URL_DA_SUA_FOTO_DE_PERFIL" alt="Sua Foto de Perfil" height="150" style="border-radius: 50%;"/>
+</div>
 
 🛠️ Destaque Técnico: OrionWMS (Engine de Inventário)
 O Orion é um sistema de missão crítica que desenvolvi para gerenciar fluxos de dados complexos e persistência de inventário em tempo real.
