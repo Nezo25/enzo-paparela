@@ -22,7 +22,7 @@ Backend Developer
 </div>
 
 <div align="center" style="margin-top: 20px;">
-  <img src="URL_DA_SUA_FOTO_DE_PERFIL" alt="Sua Foto de Perfil" height="150" style="border-radius: 50%;"/>
+  <img src="https://br.pinterest.com/pin/5911043261096232" alt="Sua Foto de Perfil" height="150" style="border-radius: 50%;"/>
 </div>
 
 🛠️ Destaque Técnico: OrionWMS (Engine de Inventário)
